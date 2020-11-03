@@ -1,6 +1,7 @@
 # Curso-UTM
 ## Introducción a la Minería de Datos con R
-### Octubre-Noviembre, 2020
+Jorge Párraga Álava
+Octubre-Noviembre, 2020
 
 ## Diccionario de datos
 
