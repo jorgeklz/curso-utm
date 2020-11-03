@@ -1,9 +1,11 @@
 # Curso-UTM
 ## Introducción a la Minería de Datos con R
 Jorge Párraga Álava
+
 Octubre-Noviembre, 2020
 
 ## Diccionario de datos
+
 
 #### `peliculas` (Quirora, R. 2020)
 
@@ -20,7 +22,6 @@ Octubre-Noviembre, 2020
 | ganancias | entero | Ganancias de la película en millones de dólares |
 
 
-## Diccionario de datos
 
 #### `padron2015` (Ortega, J. 2017)
 
