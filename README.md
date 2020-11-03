@@ -35,3 +35,23 @@ Octubre-Noviembre, 2020
 | municipios | caracter | Municipio al que está empadronado el votante |
 | sexo | caracter | Género |
 | cantidad | entero | Cantidad de personas habilitadas para sufragar |
+
+
+
+#### `migracion` (Paladino, M. 2918)
+
+|Variable       |Clase               |Descripción |
+|:--------------|:-------------------|:-----------|
+| sexo | caracter | Género de la persona encuestada|
+| est_civil | caracter | Estado civil de la persona encuestada |
+| region | caracter | Región donde se ubicaba la persona al momento de la encuesta |
+| p7_1 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas de otra religión? |
+| p7_2 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas de otra raza (negro, chino,etc.)? |
+| p7_3 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas indígenas? |
+| p7_4 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas gais? |
+| p7_5 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas con ideas políticas distintas a las suyas? |
+| p7_6 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas enfermas de sida? |
+| p7_7 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas personas con alguna discapacidad? |
+| p7_8 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas de otro país (extranjeras)? |
+| p7_9 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas con una cultura distinta? |
+| p7_10 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas lesbianas? |
