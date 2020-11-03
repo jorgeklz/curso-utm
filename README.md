@@ -1,6 +1,6 @@
 # Curso-UTM
 ## Introducción a la Minería de Datos con R
-Jorge Párraga Álava
+Jorge Párraga Álava, PhD.
 
 Octubre-Noviembre, 2020
 
@@ -20,6 +20,10 @@ Octubre-Noviembre, 2020
 | direccion | caracter | Nombre del o la director/a |
 | duración | entero | Duración en minutos |
 | ganancias | entero | Ganancias de la película en millones de dólares |
+
+
+
+
 
 
 
