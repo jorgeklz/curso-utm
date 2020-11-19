@@ -55,3 +55,20 @@ Octubre-Noviembre, 2020
 | p7_8 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas de otro país (extranjeras)? |
 | p7_9 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas con una cultura distinta? |
 | p7_10 | character | 7 ¿Estaría dispuesto o no estaría dispuesto a permitir que en su casa vivieran personas lesbianas? |
+
+
+
+
+#### `diabetes` (mlbench package)
+
+|Variable       |Tipo               |Descripción |
+|:--------------|:-------------------|:-----------|
+| embarazo | entero | Número de veces embarazada.|
+| glucosa | entero | Concentración de glucosa en plasma (prueba de tolerancia a la glucosa).|
+| presion | entero |  Presión arterial diastólica (mm Hg).|
+| triceps | entero | Grosor del pliegue cutáneo del tríceps (mm).|
+| insulina  | entero | Insulina sérica de 2 horas (mu U/ml).|
+| masa | numérico |  Índice de masa corporal.|
+| pedigri | numérico |  Diabetes función del pedigrí.|
+| edad  | entero |  Edad (años).|
+| diabetes | caracter |  Variable clase (prueba de diabetes)|
