@@ -7,7 +7,7 @@ Octubre-Noviembre, 2020
 ## Diccionario de datos
 
 
-#### `peliculas` (Quirora, R. 2020)
+#### `peliculas` (Quiroga, R. 2020)
 
 |Variable       |Clase               |Descripción |
 |:--------------|:-------------------|:-----------|
